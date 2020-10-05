@@ -15,11 +15,15 @@ namespace lesson4
         public Form1()
         {
             InitializeComponent();
+
+            textBoxHX.Text = "1";
+            textBoxXN.Text = "1";
+            TextBoxX0.Text = "0";
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            result.Font = new Font("Teams new Roman", 14, FontStyle.Bold);
+            result.Font = new Font("Teams new Roman", 14, FontStyle.Italic);
             
             double x0 = Convert.ToDouble(TextBoxX0.Text);
             double xn = Convert.ToDouble(textBoxXN.Text);
