@@ -1,0 +1,10 @@
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\bin\Debug\lesson4.exe.config
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\bin\Debug\lesson4.exe
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\bin\Debug\lesson4.pdb
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.csprojAssemblyReference.cache
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.Properties.Resources.resources
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.csproj.GenerateResource.cache
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.csproj.CoreCompileInputs.cache
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.exe
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.pdb
+E:\Workspace\C#\Vivt\development_tools\lesson4\lesson4\obj\Debug\lesson4.Form1.resources
